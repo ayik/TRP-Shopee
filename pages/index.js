@@ -34,7 +34,7 @@ export default function Home() {
           </blockquote>
           <blockquote className="bg-white text-black p-4 rounded shadow">
             <p>“Sangat membantu buat cari winning product TikTok Shop.”</p>
-            <footer className="mt-2 text-sm">– Citra, TikTok Affiliate</footer>
+            <footer className="mt-2 text-sm">– Elzara, TikTok Affiliate</footer>
           </blockquote>
         </div>
       </section>
